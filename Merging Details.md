@@ -1,6 +1,6 @@
 # Medium
 
-Bob, a teacher of St. Joseph School given a task by his principal to merge the details of the students where each element $details[i]$ is a list of strings, where the first element $details[i] [0]$ is a name of the student, and the rest of the elements are emails representing emails of the student. Two details definitely belong to the same student if there is some common email to both detail.  
+Bob, a teacher of St. Joseph School given a task by his principal to merge the details of the students where each element $details[i]$ is a list of strings, where the first element $details[i][0]$ is a name of the student, and the rest of the elements are emails representing emails of the student. Two details definitely belong to the same student if there is some common email to both detail.  
 
 After merging the details, return the details of the student in the following format: the first element of each detail is the name of the student, and the rest of the elements are emails in sorted order. The details themselves can be returned in any order.
 

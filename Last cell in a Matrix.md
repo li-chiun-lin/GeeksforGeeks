@@ -2,8 +2,8 @@
 
 Given a binary matrix of dimensions  with $R$ rows and $C$ columns. Start from cell $(0, 0)$, moving in the right direction. Perform the following operations:
 
-- If the value of $matrix[i] [j]$ is $0$, then traverse in the same direction and check the next value.
-- If the value of $matrix[i] [j]$ is $1$, then update $matrix[i] [j]$ to $0$ and change the current direction clockwise.
+- If the value of $matrix[i][j]$ is $0$, then traverse in the same direction and check the next value.
+- If the value of $matrix[i][j]$ is $1$, then update $matrix[i][j]$ to $0$ and change the current direction clockwise.
 
 Find the index of the cell where you will be forced to exit the matrix while performing the given traversal.
 

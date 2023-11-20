@@ -2,7 +2,7 @@
 
 You are given $n$ and $m$ which means the row and column of the 2D matrix and an array of size $k$ denoting the number of operations. Matrix elements is $0$ if there is water or $1$ if there is land.
 
-Originally, the 2D matrix is all $0$ which means there is no land in the matrix. The array has $k$ operator and each operator has two integer $A[i] [0]$, $A[i] [1]$ means that you can change the cell $matrix[A[i] [0]] [A[i] [1]]$ from sea to island.
+Originally, the 2D matrix is all $0$ which means there is no land in the matrix. The array has $k$ operator and each operator has two integer $A[i][0]$, $A[i][1]$ means that you can change the cell $matrix[A[i][0]][A[i][1]]$ from sea to island.
 
 Return how many island are there in the matrix after each operator. You need to return an array of size $k$.
 
